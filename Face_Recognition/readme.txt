@@ -6,3 +6,17 @@ Classification with SVM
 Test image
 Test webcam
 Test Video
+
+Dataset_Folder
+  Person1:
+    image1.jpg
+    image2.jpg
+    image3.jpg
+  Person2::
+    image1.jpg
+    image2.jpg
+    image3.jpg
+  Person3
+    image1.jpg
+    image2.jpg
+    image3.jpg
